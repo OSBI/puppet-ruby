@@ -11,7 +11,7 @@
     "Modulefile": "f0724b68d38cee35b0f796059e03d2c0",
     "README": "2548cb0748f1fa655169f1fc7b409703",
     "manifests/gems.pp": "ee2cce2dc957c6fb2e315d979ad49d41",
-    "manifests/passenger.pp": "6e63a6d27f250d4a392f49babfb45f9b",
+    "manifests/passenger.pp": "f6e7a03d63f8c22acc267c94915da067",
     "manifests/passenger/apache.pp": "03dfb1332998419ad87928df59d8c828",
     "manifests/passenger/nginx.pp": "91cac7af44e6d7791cb4d6e350092ab8",
     "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
